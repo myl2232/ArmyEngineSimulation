@@ -1,0 +1,8 @@
+{
+	"BuildId": "84790848-6e4c-4621-800e-db477b384ca8",
+	"Modules": 
+	{
+		"WindowsFileUtility": "UE4Editor-WindowsFileUtility-Win64-Debug.dll",
+		"ZipUtility": "UE4Editor-ZipUtility-Win64-Debug.dll"
+	}
+}

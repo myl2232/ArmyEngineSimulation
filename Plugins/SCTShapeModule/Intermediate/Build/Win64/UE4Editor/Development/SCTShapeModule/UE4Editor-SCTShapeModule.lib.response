@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SCTShapeModule.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Development\SCTShapeModule\Module.SCTShapeModule.1_of_4.cpp.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Development\SCTShapeModule\Module.SCTShapeModule.2_of_4.cpp.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Development\SCTShapeModule\Module.SCTShapeModule.3_of_4.cpp.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Development\SCTShapeModule\Module.SCTShapeModule.4_of_4.cpp.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Development\SCTShapeModule\Module.SCTShapeModule.gen.cpp.obj"
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Development\SCTShapeModule\UE4Editor-SCTShapeModule.lib"
+/INCLUDE:IMPLEMENT_MODULE_SCTShapeModule

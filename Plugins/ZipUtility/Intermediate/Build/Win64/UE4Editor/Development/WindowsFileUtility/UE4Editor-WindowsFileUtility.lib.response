@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WindowsFileUtility.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\CoreUObject\SharedPCH.CoreUObject.h.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Development\WindowsFileUtility\Module.WindowsFileUtility.cpp.obj"
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Development\WindowsFileUtility\UE4Editor-WindowsFileUtility.lib"
+/INCLUDE:IMPLEMENT_MODULE_WindowsFileUtility

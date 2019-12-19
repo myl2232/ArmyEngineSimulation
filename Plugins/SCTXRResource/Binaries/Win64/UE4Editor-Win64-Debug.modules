@@ -1,0 +1,9 @@
+{
+	"BuildId": "84790848-6e4c-4621-800e-db477b384ca8",
+	"Modules": 
+	{
+		"SCTXRCore": "UE4Editor-SCTXRCore-Win64-Debug.dll",
+		"SCTXRResource": "UE4Editor-SCTXRResource-Win64-Debug.dll",
+		"SCTXRUser": "UE4Editor-SCTXRUser-Win64-Debug.dll"
+	}
+}

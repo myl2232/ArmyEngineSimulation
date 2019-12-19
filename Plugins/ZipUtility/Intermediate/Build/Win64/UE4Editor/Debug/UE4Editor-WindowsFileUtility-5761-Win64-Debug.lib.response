@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-WindowsFileUtility-5761-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\CoreUObject\SharedPCH.CoreUObject.h.obj"
+"D:\BimMain\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Debug\WindowsFileUtility\Module.WindowsFileUtility.cpp.obj"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\PCLaunch.rc.res"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\BimMain\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Debug\UE4Editor-WindowsFileUtility-5761-Win64-Debug.lib"

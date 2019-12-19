@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SCTXRUser.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4Editor\Development\SCTXRUser\Module.SCTXRUser.cpp.obj"
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4Editor\Development\SCTXRUser\UE4Editor-SCTXRUser.lib"
+/INCLUDE:IMPLEMENT_MODULE_SCTXRUser

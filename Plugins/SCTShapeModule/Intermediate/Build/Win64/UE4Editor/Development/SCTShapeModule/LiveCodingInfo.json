@@ -1,0 +1,64 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SCTShapeModule.1_of_4.cpp.obj": [
+			"GizmoPrimitive.cpp.obj",
+			"HardwareBuffer.cpp.obj",
+			"SCTBoardActor.cpp.obj",
+			"SCTButtonActor.cpp.obj",
+			"SCTCompActor.cpp.obj",
+			"SCTDoorSheetActor.cpp.obj",
+			"SCTModelActor.cpp.obj",
+			"SCTShapeActor.cpp.obj",
+			"SCTShapeBoxActor.cpp.obj",
+			"SCTSpaceActor.cpp.obj",
+			"Triangulation.cpp.obj",
+			"TypedPrimitive.cpp.obj",
+			"MaterialManager.cpp.obj",
+			"SCTAnimation.cpp.obj",
+			"SCTAttribute.cpp.obj",
+			"SCTBaseShape.cpp.obj",
+			"SCTBoardShape.cpp.obj",
+			"SCTCabinetShape.cpp.obj",
+			"SCTDoorGroup.cpp.obj"
+		],
+		"Module.SCTShapeModule.2_of_4.cpp.obj": [
+			"SCTDoorShape.cpp.obj",
+			"SCTDoorSheet.cpp.obj",
+			"SCTEmbededElectricalGroup.cpp.obj",
+			"SCTFrameShape.cpp.obj",
+			"SCTGlobalDataForShape.cpp.obj",
+			"SCTInsideShape.cpp.obj",
+			"SCTModelShape.cpp.obj"
+		],
+		"Module.SCTShapeModule.3_of_4.cpp.obj": [
+			"SCTOutline.cpp.obj",
+			"SCTShape.cpp.obj",
+			"SCTShapeManager.cpp.obj",
+			"SCTShapeModule.cpp.obj",
+			"SCTSlidingDrawerShape.cpp.obj",
+			"SCTSpace.cpp.obj",
+			"SCTSpaceShape.cpp.obj",
+			"SCTStaticMeshManager.cpp.obj",
+			"SCTUnitShape.cpp.obj"
+		],
+		"Module.SCTShapeModule.4_of_4.cpp.obj": [
+			"SCTVeneeredSideBoardGroup.cpp.obj",
+			"SCTAccessShapeForBim.cpp.obj",
+			"SCTShapeUtilityTools.cpp.obj"
+		],
+		"Module.SCTShapeModule.gen.cpp.obj": [
+			"GizmoPrimitive.gen.cpp.obj",
+			"SCTBoardActor.gen.cpp.obj",
+			"SCTButtonActor.gen.cpp.obj",
+			"SCTCompActor.gen.cpp.obj",
+			"SCTDoorSheetActor.gen.cpp.obj",
+			"SCTModelActor.gen.cpp.obj",
+			"SCTShapeActor.gen.cpp.obj",
+			"SCTShapeBoxActor.gen.cpp.obj",
+			"SCTShapeModule.init.gen.cpp.obj",
+			"SCTSpaceActor.gen.cpp.obj",
+			"TypedPrimitive.gen.cpp.obj"
+		]
+	}
+}

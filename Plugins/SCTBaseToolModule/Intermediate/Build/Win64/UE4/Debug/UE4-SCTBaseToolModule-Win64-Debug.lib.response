@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4-SCTBaseToolModule-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Debug\Engine\SharedPCH.Engine.h.obj"
+"D:\BimMain\Plugins\SCTBaseToolModule\Intermediate\Build\Win64\UE4\Debug\SCTBaseToolModule\Module.SCTBaseToolModule.cpp.obj"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Debug\PCLaunch.rc.res"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Debug\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\BimMain\Plugins\SCTBaseToolModule\Intermediate\Build\Win64\UE4\Debug\UE4-SCTBaseToolModule-Win64-Debug.lib"

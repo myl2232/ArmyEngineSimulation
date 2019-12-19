@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-XRStaticLighting.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\XRStaticLighting\Intermediate\Build\Win64\UE4Editor\Development\XRStaticLighting\Module.XRStaticLighting.cpp.obj"
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\XRStaticLighting\Intermediate\Build\Win64\UE4Editor\Development\XRStaticLighting\UE4Editor-XRStaticLighting.lib"
+/INCLUDE:IMPLEMENT_MODULE_XRStaticLighting

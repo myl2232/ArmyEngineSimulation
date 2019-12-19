@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SCTXRCore-5761-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\Core\SharedPCH.Core.h.obj"
+"D:\BimMain\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4Editor\Debug\SCTXRCore\Module.SCTXRCore.cpp.obj"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\PCLaunch.rc.res"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\BimMain\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4Editor\Debug\UE4Editor-SCTXRCore-5761-Win64-Debug.lib"

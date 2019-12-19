@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.WindowsFileUtility.cpp.obj": [
+			"WFUFileListInterface.cpp.obj",
+			"WFUFileListLambdaDelegate.cpp.obj",
+			"WFUFolderWatchInterface.cpp.obj",
+			"WFUFolderWatchLambdaDelegate.cpp.obj",
+			"WFULambdaRunnable.cpp.obj",
+			"WindowsFileUtility.cpp.obj",
+			"WindowsFileUtilityFunctionLibrary.cpp.obj"
+		]
+	}
+}

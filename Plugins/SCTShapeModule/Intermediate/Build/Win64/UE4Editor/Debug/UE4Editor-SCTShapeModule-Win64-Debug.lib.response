@@ -1,0 +1,17 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SCTShapeModule-Win64-Debug.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\Engine\SharedPCH.Engine.h.obj"
+"D:\BimMain\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Debug\SCTShapeModule\Module.SCTShapeModule.1_of_4.cpp.obj"
+"D:\BimMain\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Debug\SCTShapeModule\Module.SCTShapeModule.2_of_4.cpp.obj"
+"D:\BimMain\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Debug\SCTShapeModule\Module.SCTShapeModule.3_of_4.cpp.obj"
+"D:\BimMain\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Debug\SCTShapeModule\Module.SCTShapeModule.4_of_4.cpp.obj"
+"D:\BimMain\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Debug\SCTShapeModule\Module.SCTShapeModule.gen.cpp.obj"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\PCLaunch.rc.res"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4Editor\Debug\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\BimMain\Plugins\SCTShapeModule\Intermediate\Build\Win64\UE4Editor\Debug\UE4Editor-SCTShapeModule-Win64-Debug.lib"

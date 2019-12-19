@@ -1,0 +1,16 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SCTBaseToolModule.cpp.obj": [
+			"AliYunServer.cpp.obj",
+			"DownLoadMgr.cpp.obj",
+			"HttpMgr.cpp.obj",
+			"Job.cpp.obj",
+			"SCTBaseToolModule.cpp.obj",
+			"SCTProgressBar.cpp.obj",
+			"SCTStringTool.cpp.obj",
+			"SCTVectorTool.cpp.obj",
+			"CameraUtility.cpp.obj"
+		]
+	}
+}

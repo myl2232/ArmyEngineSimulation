@@ -1,0 +1,8 @@
+{
+	"BuildId": "0dc0d667-455d-4a0f-a347-5beb985b6e06",
+	"Modules": 
+	{
+		"WindowsFileUtility": "UE4-WindowsFileUtility.dll",
+		"ZipUtility": "UE4-ZipUtility.dll"
+	}
+}

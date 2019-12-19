@@ -1,0 +1,9 @@
+{
+	"BuildId": "0dc0d667-455d-4a0f-a347-5beb985b6e06",
+	"Modules": 
+	{
+		"SCTXRCore": "UE4-SCTXRCore.dll",
+		"SCTXRResource": "UE4-SCTXRResource.dll",
+		"SCTXRUser": "UE4-SCTXRUser.dll"
+	}
+}

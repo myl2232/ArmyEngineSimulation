@@ -1,0 +1,19 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.XRStaticLighting.cpp.obj": [
+			"Allocator2D.cpp.obj",
+			"ImportVolumetricLightmap.cpp.obj",
+			"LayoutUV.cpp.obj",
+			"Lightmass.cpp.obj",
+			"LightmassLandscapeRender.cpp.obj",
+			"LightmassRender.cpp.obj",
+			"StaticLightingDebug.cpp.obj",
+			"StaticLightingSystem.cpp.obj",
+			"StaticLightingTextureMapping.cpp.obj",
+			"XRMeshUtilities.cpp.obj",
+			"XRStaticLightingModule.cpp.obj",
+			"XRStaticMeshStaticLightingMesh.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SCTTess.cpp.obj": [
+			"GTEngineLibrary.cpp.obj",
+			"TriangulateCacheData.cpp.obj",
+			"UEGTEngine.cpp.obj"
+		],
+		"Module.SCTTess.gen.cpp.obj": [
+			"GTEngineLibrary.gen.cpp.obj",
+			"SCTTess.init.gen.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-ZipUtility.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Slate\SharedPCH.Slate.h.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Development\ZipUtility\Module.ZipUtility.cpp.obj"
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Development\ZipUtility\UE4Editor-ZipUtility.lib"
+/INCLUDE:IMPLEMENT_MODULE_ZipUtility

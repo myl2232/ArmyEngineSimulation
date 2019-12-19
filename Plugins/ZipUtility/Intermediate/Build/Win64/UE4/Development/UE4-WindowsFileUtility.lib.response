@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4-WindowsFileUtility.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Development\CoreUObject\SharedPCH.CoreUObject.h.obj"
+"D:\BimMain\Plugins\ZipUtility\Intermediate\Build\Win64\UE4\Development\WindowsFileUtility\Module.WindowsFileUtility.cpp.obj"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Development\PCLaunch.rc.res"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\BimMain\Plugins\ZipUtility\Intermediate\Build\Win64\UE4\Development\UE4-WindowsFileUtility.lib"

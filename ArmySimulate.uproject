@@ -1,0 +1,18 @@
+{
+	"FileVersion": 3,
+	"EngineAssociation": "{49BA30F9-4A59-7F3F-E059-40900ABC60EE}",
+	"Category": "",
+	"Description": "",
+	"Modules": [
+		{
+			"Name": "Army",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		},
+		{
+			"Name": "ArmyShaders",
+			"Type": "Runtime",
+			"LoadingPhase": "PostConfigInit"
+		}
+	]
+}

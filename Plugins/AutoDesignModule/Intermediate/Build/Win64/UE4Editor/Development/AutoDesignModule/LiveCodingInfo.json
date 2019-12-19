@@ -1,0 +1,9 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.AutoDesignModule.cpp.obj": [
+			"AutoDesignEngine.cpp.obj",
+			"AutoDesignModule.cpp.obj"
+		]
+	}
+}

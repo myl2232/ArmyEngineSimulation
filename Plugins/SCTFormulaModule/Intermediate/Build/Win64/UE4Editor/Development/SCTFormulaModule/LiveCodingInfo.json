@@ -1,0 +1,13 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SCTFormulaModule.cpp.obj": [
+			"Formula.cpp.obj",
+			"Function.cpp.obj",
+			"Operand.cpp.obj",
+			"Operator.cpp.obj",
+			"SCTFormulaModule.cpp.obj",
+			"SubFormula.cpp.obj"
+		]
+	}
+}

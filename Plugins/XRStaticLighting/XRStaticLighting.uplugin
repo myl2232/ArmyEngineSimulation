@@ -1,0 +1,24 @@
+{
+  "FileVersion": 3,
+  "Version": 1,
+  "VersionName": "1.0",
+  "FriendlyName": "XRStaticLighting",
+  "Description": "XRStaticLighting",
+  "Category": "Examples",
+  "CreatedBy": "Ou Shi Nan.",
+  "CreatedByURL": "",
+  "DocsURL": "",
+  "MarketplaceURL": "",
+  "SupportURL": "",
+  "EnabledByDefault": true,
+  "CanContainContent": false,
+  "IsBetaVersion": false,
+  "Installed": false,
+  "Modules": [
+    {
+      "Name": "XRStaticLighting",
+      "Type": "Runtime",
+      "LoadingPhase": "Default"
+    }
+  ]
+}

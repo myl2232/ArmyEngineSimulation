@@ -1,0 +1,310 @@
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Development\ZipUtility\Definitions.ZipUtility.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/ZipUtility/Private/SevenZipCallbackHandler.cpp
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\ZipUtility\Public\SevenZipCallbackHandler.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\ThirdParty\7zpp\Include\7zpp.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\ListCallback.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\SevenZipLibrary.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\SevenZipException.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\SevenString.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\string
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\istream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ostream
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ios
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocnum
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\climits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cmath
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xtgmath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdio
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\streambuf
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xiosbase
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocale
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\stdexcept
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory0
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cstdint
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\limits
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\ymath.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cfloat
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cwchar
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xutility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\utility
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\iosfwd
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xatomic0.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\typeinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_typeinfo.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xlocinfo.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\locale.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\memory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xmemory
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xfacet
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\system_error
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\cerrno
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xcall_once.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xerrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\share.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\xstring_insert.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\CompressionFormat.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\Enum.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\ProgressCallback.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformAtomics.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sphelper.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wtypesbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\unknwnbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\objidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\propidlbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oaidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\urlmon.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oleidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\servprov.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ocidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsystem.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mciapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmiscapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmiscapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\playsoundapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\joystickapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\mmsyscom.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sapiddk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\SPError.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\comcat.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\mmreg.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlbase.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atldef.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\new.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\crtdefs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winsock2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ws2def.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\inaddr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\qos.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlcore.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\mbstring.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlchecked.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlexcept.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atltrace.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlconv.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlalloc.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlsimpcoll.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlwinverapi.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atlcomcli.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\olectl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atliface.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\oleacc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\process.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\corecrt_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\ucrt\math.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vcruntime_startup.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\shlwapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\shtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\atltransactionmanager.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ktmw32.h
+D:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\atlmfc\include\statreg.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\SevenZipCompressor.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\vector
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\SevenZipArchive.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\FileInfo.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\CompressionLevel.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\SevenZipExtractor.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\thirdparty\7zpp\include\SevenZipLister.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformAtomics.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/ThreadSafeBool.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipUtilityPrivatePCH.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\ZipUtility\Public\ZipUtilityPlugin.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\ZipUtility\Public\ZipFileFunctionLibrary.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\public\ZipUtilityInterface.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\public\ZipOperation.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/ZipUtility/Private/ZipFileFunctionInternalCallback.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipFileFunctionInternalCallback.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/ZipUtility/Private/ZipFileFunctionLibrary.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipUtilityPrivatePCH.h
+E:\UnrealEngine\Engine\Source\Runtime\Projects\Public\Interfaces/IPluginManager.h
+E:\UnrealEngine\Engine\Source\Runtime\Projects\Public\PluginDescriptor.h
+e:\unrealengine\engine\source\runtime\projects\public\ModuleDescriptor.h
+e:\unrealengine\engine\source\runtime\projects\public\CustomBuildSteps.h
+e:\unrealengine\engine\source\runtime\projects\public\LocalizationDescriptor.h
+e:\unrealengine\engine\source\runtime\projects\public\PluginReferenceDescriptor.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\WindowsUtility\Public\WFULambdaRunnable.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/Runnable.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/Future.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZULambdaDelegate.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\WindowsUtility\Public\WindowsFileUtilityFunctionLibrary.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\public\AbstructInterface.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformFilemanager.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/PlatformFile.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsPlatformFile.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/ZipUtility/Private/ZipOperation.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/ZipUtility/Private/ZipUtilityInterface.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/ZipUtility/Private/ZipUtilityPlugin.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/ZipUtility/Private/ZULambdaDelegate.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\ziputility\private\ZipUtilityPrivatePCH.h

@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-SCTXRCore.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Core\SharedPCH.Core.h.obj"
+"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4Editor\Development\SCTXRCore\Module.SCTXRCore.cpp.obj"
+"E:\UnrealEngine\Engine\Intermediate\Build\Win64\UE4Editor\Development\Default.rc2.res"
+/OUT:"F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4Editor\Development\SCTXRCore\UE4Editor-SCTXRCore.lib"
+/INCLUDE:IMPLEMENT_MODULE_SCTXRCore

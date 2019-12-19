@@ -1,0 +1,17 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SCTXRResource.cpp.obj": [
+			"SCTCityHash.cpp.obj",
+			"SCTResManager.cpp.obj",
+			"SCTResourceTools.cpp.obj",
+			"SCTResTools.cpp.obj",
+			"SCTXRResourceModule.cpp.obj"
+		],
+		"Module.SCTXRResource.gen.cpp.obj": [
+			"SCTResManager.gen.cpp.obj",
+			"SCTResTypes.gen.cpp.obj",
+			"SCTXRResource.init.gen.cpp.obj"
+		]
+	}
+}

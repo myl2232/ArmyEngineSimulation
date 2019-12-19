@@ -1,0 +1,14 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.ZipUtility.cpp.obj": [
+			"SevenZipCallbackHandler.cpp.obj",
+			"ZipFileFunctionInternalCallback.cpp.obj",
+			"ZipFileFunctionLibrary.cpp.obj",
+			"ZipOperation.cpp.obj",
+			"ZipUtilityInterface.cpp.obj",
+			"ZipUtilityPlugin.cpp.obj",
+			"ZULambdaDelegate.cpp.obj"
+		]
+	}
+}

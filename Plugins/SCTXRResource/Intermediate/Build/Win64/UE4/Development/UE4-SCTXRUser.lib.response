@@ -1,0 +1,13 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4-SCTXRUser.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Development\Engine\SharedPCH.Engine.h.obj"
+"D:\BimMain\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4\Development\SCTXRUser\Module.SCTXRUser.cpp.obj"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Development\PCLaunch.rc.res"
+"D:\BimEngine\Engine\Intermediate\Build\Win64\UE4\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"D:\BimMain\Plugins\SCTXRResource\Intermediate\Build\Win64\UE4\Development\UE4-SCTXRUser.lib"

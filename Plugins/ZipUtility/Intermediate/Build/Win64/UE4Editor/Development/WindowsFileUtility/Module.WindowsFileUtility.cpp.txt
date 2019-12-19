@@ -1,0 +1,357 @@
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Intermediate\Build\Win64\UE4Editor\Development\WindowsFileUtility\Definitions.WindowsFileUtility.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/WindowsUtility/Private/WFUFileListInterface.cpp
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\WindowsUtility\Public\WFUFileListInterface.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\public\AbstructInterface.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WindowsFileUtilityPrivatePCH.h
+E:\UnrealEngine\Engine\Source\Runtime\CoreUObject\Public\CoreUObject.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/MonolithicHeaderBoilerplate.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Core.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+e:\unrealengine\engine\source\runtime\core\public\GenericPlatform/GenericPlatformStackWalk.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/PlatformStackWalk.h
+e:\unrealengine\engine\source\runtime\core\public\Windows/WindowsPlatformStackWalk.h
+e:\unrealengine\engine\source\runtime\core\public\GenericPlatform/GenericPlatformNamedPipe.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/PlatformNamedPipe.h
+e:\unrealengine\engine\source\runtime\core\public\Windows/WindowsPlatformNamedPipe.h
+e:\unrealengine\engine\source\runtime\core\public\GenericPlatform/GenericPlatformCriticalSection.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/PlatformFile.h
+e:\unrealengine\engine\source\runtime\core\public\Windows/WindowsPlatformFile.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/PlatformIncludes.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/MonolithicHeaderBoilerplate.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/PlatformFilemanager.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/MessageDialog.h
+e:\unrealengine\engine\source\runtime\core\public\ProfilingDebugging/ScopedDebugInfo.h
+e:\unrealengine\engine\source\runtime\core\public\ProfilingDebugging/ExternalProfiler.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/StringUtility.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/NameAsStringProxyArchive.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/MRUArray.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/TransArray.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/ITransaction.h
+e:\unrealengine\engine\source\runtime\core\public\misc\Change.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/ArrayBuilder.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/BitReader.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/BitArchive.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/BitWriter.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/ScopedEvent.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/SingleThreadEvent.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/SingleThreadRunnable.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/ThreadManager.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/FileHelper.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/StaticBitArray.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/MapBuilder.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/ResourceArray.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/DynamicRHIResourceArray.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/ThreadingBase.h
+e:\unrealengine\engine\source\runtime\core\public\Internationalization/TextLocalizationManagerGlobals.h
+e:\unrealengine\engine\source\runtime\core\public\Internationalization/Culture.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/NetworkGuid.h
+e:\unrealengine\engine\source\runtime\core\public\Math/SHMath.h
+e:\unrealengine\engine\source\runtime\core\public\Logging/LogSuppressionInterface.h
+e:\unrealengine\engine\source\runtime\core\public\HAL/OutputDevices.h
+e:\unrealengine\engine\source\runtime\core\public\Logging/LogScopedVerbosityOverride.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceNull.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceMemory.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceFile.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceDebug.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceArchiveWrapper.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceError.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceAnsiError.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/BufferedOutputDevice.h
+e:\unrealengine\engine\source\runtime\core\public\Stats/StatsMisc.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/CoreStats.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/TimeGuard.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/LargeMemoryWriter.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/LargeMemoryData.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/LargeMemoryReader.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/BufferArchive.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/ArrayReader.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/ArrayWriter.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/BufferWriter.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/Variant.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/WildcardString.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/CircularBuffer.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/CircularQueue.h
+e:\unrealengine\engine\source\runtime\core\public\Containers/Ticker.h
+e:\unrealengine\engine\source\runtime\core\public\ProfilingDebugging/ProfilingHelpers.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceHelper.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/SlowTaskStack.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/FeedbackContext.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/SlowTask.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/ScopedSlowTask.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/AutomationTest.h
+e:\unrealengine\engine\source\runtime\core\public\Async/Future.h
+e:\unrealengine\engine\source\runtime\core\public\Async/Async.h
+e:\unrealengine\engine\source\runtime\core\public\Internationalization/Regex.h
+e:\unrealengine\engine\source\runtime\core\public\Templates/ScopedCallback.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/CoreDelegates.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/AES.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/CallbackDevice.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/ObjectThumbnail.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/LocalTimestampDirectoryVisitor.h
+e:\unrealengine\engine\source\runtime\core\public\Serialization/CustomVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/BlueprintsObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/BuildObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/CoreObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/EditorObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/FrameworkObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/MobileObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/NetworkingObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/OnlineObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/PhysicsObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/PlatformObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/RenderingObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/SequencerObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\UObject/VRObjectVersion.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/App.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/Timecode.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/FrameRate.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/FrameTime.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/ExpressionParserTypes.h
+e:\unrealengine\engine\source\runtime\core\public\Templates/ValueOrError.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/ExpressionParserTypes.inl
+e:\unrealengine\engine\source\runtime\core\public\Misc/OutputDeviceConsole.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/MonitoredProcess.h
+e:\unrealengine\engine\source\runtime\core\public\Misc/EnumRange.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ErrorException.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ScriptInterface.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Templates/Casts.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ScriptMacros.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/UnrealType.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/SerializedPropertyScope.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/CoreNetTypes.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/LazyObjectPtr.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/PersistentObjectPtr.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/PropertyPortFlags.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/PropertyTag.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/SoftObjectPtr.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/SoftObjectPath.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/SparseDelegate.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/Stack.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/EnumProperty.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/UObjectAllocator.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/UObjectHash.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/UObjectIterator.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/CoreNet.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Misc/TextBuffer.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Templates/SubclassOf.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/PropertyLocalizationDataGathering.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/GatherableTextData.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/InternationalizationMetadata.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/StructOnScope.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/Package.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Misc/WorldCompositionUtility.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/LevelGuids.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/MetaData.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\UObject/DebugSerializationFlags.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/TextProperty.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ObjectRedirector.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/UObjectAnnotation.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ObjectMemoryAnalyzer.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ReferenceChainSearch.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\HAL/ThreadHeartBeat.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Async/AsyncFileHandle.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Internationalization/TextPackageNamespaceUtil.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Internationalization/TextNamespaceUtil.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveCountMem.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ObjectAndNameAsStringProxyArchive.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ObjectWriter.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ObjectReader.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveShowReferences.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/FindReferencersArchive.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/FindObjectReferencers.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveFindCulprit.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/DuplicatedObject.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataReader.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/UObjectThreadContext.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/DuplicatedDataWriter.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceObjectRef.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveReplaceOrClearExternalReferences.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectPropertyMapper.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveReferenceMarker.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/ArchiveObjectCrc32.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Misc/PackageName.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ConstructorHelpers.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Serialization/BulkData.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Containers/SortedMap.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\serialization\BulkData2.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/PackageFileSummary.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Misc/EngineVersion.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ObjectResource.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/Linker.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/LinkerLoad.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/LinkerSave.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Misc/NotifyHook.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\Misc/RedirectCollector.h
+e:\unrealengine\engine\source\runtime\coreuobject\public\UObject/ScriptStackTracker.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\WindowsUtility\Public\IWindowsFileUtility.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\WindowsUtility\Public\WFULambdaRunnable.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\WindowsUtility\Public\WFUFolderWatchInterface.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/WindowsUtility/Private/WFUFileListLambdaDelegate.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WFUFileListLambdaDelegate.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WindowsFileUtilityPrivatePCH.h
+F:\UnrealProject\AWSEngine\ArmySimulate\Plugins\ZipUtility\Source\WindowsUtility\Public\WindowsFileUtilityFunctionLibrary.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/WindowsUtility/Private/WFUFolderWatchInterface.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WindowsFileUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/WindowsUtility/Private/WFUFolderWatchLambdaDelegate.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WFUFolderWatchLambdaDelegate.h
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WindowsFileUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/WindowsUtility/Private/WFULambdaRunnable.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WindowsFileUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/WindowsUtility/Private/WindowsFileUtility.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WindowsFileUtilityPrivatePCH.h
+F:/UnrealProject/AWSEngine/ArmySimulate/Plugins/ZipUtility/Source/WindowsUtility/Private/WindowsFileUtilityFunctionLibrary.cpp
+f:\unrealproject\awsengine\armysimulate\plugins\ziputility\source\windowsutility\private\WindowsFileUtilityPrivatePCH.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/AllowWindowsPlatformTypes.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/WindowsHWrapper.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PreWindowsApi.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/MinWindows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Windows.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\sdkddkver.h
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Community\VC\Tools\MSVC\14.16.27023\INCLUDE\excpt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\windef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\minwindef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnt.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\kernelspecs.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\basetsd.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack4.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack8.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\pshpack1.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\ktmtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\apisetcconv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\minwinbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processenv.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\debugapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\utilapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\handleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\errhandlingapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\fibersapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namedpipeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\profileapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\heapapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ioapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\synchapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\interlockedapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processthreadsapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\sysinfoapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\memoryapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\enclaveapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoollegacyapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\threadpoolapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\jobapi2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wow64apiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\libloaderapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securitybaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\namespaceapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\systemtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\processtopologyapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\securityappcontainer.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\realtimeapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\winerror.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\timezoneapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wingdi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack4.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winuser.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\tvout.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\datetimeapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\stringapiset.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnls.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\wincon.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\consoleapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winver.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\verrsrc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winreg.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\reason.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\winnetwk.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wnnc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\stralign.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\imm.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\ime_cmodes.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/PostWindowsApi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\shellapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\Shlwapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\objbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpc.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdce.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcdcep.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcnterr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcasync.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcndr.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\rpcnsip.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\rpcsal.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\combaseapi.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wtypesbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\unknwnbase.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\ole2.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\oleauto.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\oaidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\objidl.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\unknwn.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\wtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\coml2api.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\propidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\oleidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\objidlbase.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\guiddef.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\cguid.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\urlmon.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\servprov.h
+c:\program files (x86)\windows kits\10\include\10.0.16299.0\um\msxml.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\propidl.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\um\shtypes.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack1.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\pshpack8.h
+C:\Program Files (x86)\Windows Kits\10\include\10.0.16299.0\shared\poppack.h
+E:\UnrealEngine\Engine\Source\Runtime\Core\Public\Windows/HideWindowsPlatformTypes.h

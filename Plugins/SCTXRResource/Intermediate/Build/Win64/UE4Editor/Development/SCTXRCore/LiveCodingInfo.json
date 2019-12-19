@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SCTXRCore.cpp.obj": [
+			"SCTXRMath.cpp.obj",
+			"SCTXRCoreModule.cpp.obj",
+			"SCTXRStyle.cpp.obj",
+			"SCTXRStyleSet.cpp.obj"
+		]
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"RemapUnityFiles": 
+	{
+		"Module.SCTXRUser.cpp.obj": [
+			"SCTXRCommonTools.cpp.obj",
+			"SCTXRCommonTypes.cpp.obj",
+			"SCTXRUser.cpp.obj",
+			"SCTXRUserModule.cpp.obj"
+		]
+	}
+}
