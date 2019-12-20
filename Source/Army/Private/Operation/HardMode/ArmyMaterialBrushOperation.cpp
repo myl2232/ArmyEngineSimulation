@@ -1,4 +1,4 @@
-﻿#include "../../../Public/Operation/HardMode/XRMaterialBrushOperation.h"
+﻿#include "../../../Public/Operation/HardMode/ArmyMaterialBrushOperation.h"
 #include "ArmyWallActor.h"
 #include "ArmyBaseArea.h"
 #include "ArmyBaseEditStyle.h"

@@ -5,7 +5,7 @@
 #include "ArmyCommonTypes.h"
 #include "DynamicMeshBuilder.h"
 #include "FArmyAreaEdge.h"
-#include "ArmyHttpModule.h"
+#include "HttpModule.h"
 #include "ArmyBaseboardExtruder.h"
 #include "ArmyCrownMouldingExtruder.h"
 #include "ArmyLampSlotExtruder.h"

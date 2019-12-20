@@ -19,7 +19,7 @@
 
 using namespace FContentItemSpace;
 
-class ARMY_USER_API FArmyCommonTools
+class ARMYUSER_API FArmyCommonTools
 {
 public:
 	FArmyCommonTools();

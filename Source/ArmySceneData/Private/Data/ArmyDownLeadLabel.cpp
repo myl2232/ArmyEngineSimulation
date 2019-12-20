@@ -1,5 +1,5 @@
 ﻿#include "ArmyDownLeadLabel.h"
-#include "SSArmyEditableLabel.h"
+#include "ArmyEditableLabelSlate.h"
 #include "CanvasItem.h"
 #include "ArmyEditPoint.h"
 #include "ArmySettings.h"

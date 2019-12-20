@@ -1,4 +1,6 @@
-#include "Data/HardModeData/DrawStyle/XRTrapezoidStyle.h"
+#include "Data/HardModeData/DrawStyle/ArmyTrapezoidStyle.h"
+#include "ArmyBrickUnit.h"
+
 FArmyTrapezoidStyle::FArmyTrapezoidStyle() :FArmyBaseEditStyle()
 {
 	EdityType = S_TrapeZoidStyle;

@@ -13,9 +13,9 @@
 
 #pragma once
 
-#include "ArmyDetailBuilder.h"
+#include "ArmyDetailBuilderSlate.h"
 #include "FArmyConstructionItemInterface.h"
-#include "SArmyStringComboBox.h"
+#include "ArmyStringComboBoxSlate.h"
 
 
 class ARMYSLATE_API SArmyMulitCategory : public TSharedFromThis<SArmyMulitCategory>{

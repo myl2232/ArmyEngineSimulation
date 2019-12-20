@@ -29,7 +29,7 @@ public:
 
 	void InitEditor(IEngineLoop* InEngineLoop);
 
-	void CreateGameViewportWidget(UGameViewportClient* GameViewportClient) override;
+	virtual void CreateGameViewportWidget(UGameViewportClient* GameViewportClient);
 
 	DECLARE_EVENT_OneParam (UArmyEditorEngine,FOnEndTransformObject,UObject&);
 

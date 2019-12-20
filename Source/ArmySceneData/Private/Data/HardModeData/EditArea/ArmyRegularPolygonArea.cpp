@@ -1,5 +1,5 @@
-﻿#include "Data/HardModeData/EditArea/XRRegularPolygonArea.h"
-#include "Primitive2D/XRPolygon.h"
+﻿#include "Data/HardModeData/EditArea/ArmyRegularPolygonArea.h"
+#include "Primitive2D/ArmyPolygon.h"
 #include "ArmyHerringBoneStyle.h"
 #include "ArmyEngineModule.h"
 #include "ArmyPlayerController.h"

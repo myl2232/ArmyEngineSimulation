@@ -1,5 +1,5 @@
-#include "Data/HardModeData/DrawStyle/XRCrossStyle.h"
-
+#include "Data/HardModeData/DrawStyle/ArmyCrossStyle.h"
+#include "ArmyBrickUnit.h"
 
 FArmyCrossStyle::FArmyCrossStyle()
 {
@@ -43,7 +43,7 @@ void FArmyCrossStyle::SerializeToJson(TSharedRef<TJsonWriter<TCHAR, TCondensedJs
 void FArmyCrossStyle::Deserialization(const TSharedPtr<FJsonObject>& InJsonData)
 {
 	InJsonData->TryGetStringField("secondTextureUrl", SecondTextureUrl);
-	SecondTexture = FArmyEngineModule::Get().GetEngineResource()->ImportTexture(SecondTextureUrl);
+	SecondTexture = FEngineModule::Get().GetEngineResource()->ImportTexture(SecondTextureUrl);
 	FArmyBaseEditStyle::Deserialization(InJsonData);
 	SecondTextureMat->SetTextureParameterValue("MainTex", SecondTexture);
 }

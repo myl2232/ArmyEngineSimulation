@@ -2,7 +2,7 @@
 #include "SceneManagement.h"
 #include "DynamicMeshBuilder.h"
 #include "ArmyTextureAtlas.h"
-#include "../DrawStyle/XRBaseEditStyle.h"
+#include "../DrawStyle/ArmyBaseEditStyle.h"
 class FArmyBrickUnit
 {
 public:

@@ -1,4 +1,5 @@
-#include "Data/HardModeData/DrawStyle/XRWorkerStyle.h"
+#include "Data/HardModeData/DrawStyle/ArmyWorkerStyle.h"
+#include "ArmyBrickUnit.h"
 FArmyWorkerStyle::FArmyWorkerStyle() :FArmyBaseEditStyle()
 {
 	EdityType = S_WorkerStyle;

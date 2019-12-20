@@ -1,5 +1,5 @@
 #pragma  once
-
+#include "Engine/Texture.h"
 
 class FArmyTextureSource
 {
@@ -22,7 +22,7 @@ public:
 	/** Unlock a mip. */
 	void UnlockMip(int32 MipIndex);
 	int32 GetBytesPerPixel() const;
-	bool GetMipData(TArray<uint8>& OutMipData, int32 MipIndex, class IImageWrapperModule* ImageWrapperModule = nullptr);
+	bool GetMipData(TArray64<uint8>& OutMipData, int32 MipIndex, class IImageWrapperModule* ImageWrapperModule = nullptr);
 	FORCEINLINE FGuid GetId() const { return Id; }
 	FORCEINLINE int32 GetSizeX() const { return SizeX; }
 	FORCEINLINE int32 GetSizeY() const { return SizeY; }

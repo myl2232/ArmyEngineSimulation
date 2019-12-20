@@ -1,7 +1,7 @@
-﻿#include "../../Public/Model/XRConstructionManager.h"
-#include "ArmyHttpModule.h"
-#include "IArmyHttp.h"
-#include "SArmyMulitCategory.h"
+﻿#include "../../Public/Model/ArmyConstructionManager.h"
+#include "HttpModule.h"
+#include "Http.h"
+#include "ArmyMulitCategorySlate.h"
 #include "ArmyCommonTypes.h"
 #include "ArmyBaseEditStyle.h"
 #include "ArmySceneData.h"
@@ -148,7 +148,7 @@ CheckedData XRConstructionManager::ParseJson(TSharedPtr<FJsonObject> inOrignalDa
 {
 	auto DefaultChecked = MakeShared<FArmyConstructionItemInterface>();
 
-	auto UI = MakeShared<SArmyMulitCategory>();
+	TSharedPtr<SArmyMulitCategory> UI = MakeShared<SArmyMulitCategory>();
 	//解析json获得默认施工项
 	auto data = UI->ParseData(inOrignalData);
 	DefaultChecked->SetConstructionItemCheckedId(data);
@@ -301,7 +301,7 @@ void XRConstructionManager::TryStartAQuery()
 			{
 				CurrentQuery.Add(Query);
 				FString Url = Query.Parameters.GetQueryUrl();
-				IArmyHttpRequestPtr Request = FArmyHttpModule::Get().CreateDBJGetRequest(Url, FArmyHttpRequestCompleteDelegate::CreateRaw(this, &XRConstructionManager::OnGetResponseForKeyQuery, Query));
+				FHttpRequestPtr Request = FHttpModule::Get().CreateDBJGetRequest(Url, FHttpRequestCompleteDelegate::CreateRaw(this, &XRConstructionManager::OnGetResponseForKeyQuery, Query));
 				Request->ProcessRequest();
 			}
 
@@ -311,7 +311,7 @@ void XRConstructionManager::TryStartAQuery()
 
 }
 
-void XRConstructionManager::OnGetResponseForKeyQuery(FArmyHttpResponse Response, ObjectConstructionKey  Query)
+void XRConstructionManager::OnGetResponseForKeyQuery(struct FHttpResponse Response, ObjectConstructionKey  Query)
 {
 
 	if (Response.bWasSuccessful)

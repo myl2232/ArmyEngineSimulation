@@ -367,7 +367,7 @@ class RegisterOperation
 public:
 	RegisterOperation(const FString& InName, fun_ptr InFun)
 	{
-		ClassFactory::ARMYRegisterClass(InName, InFun);
+		ClassFactory::ArmyRegisterClass(InName, InFun);
 	}
 };
 
@@ -589,7 +589,7 @@ public:
 	bool bBoundingBox = true;
 
 	/** 创建XRObject对象需要的参数 */
-	XRArgument Args;
+	ArmyArgument Args;
 
 	/** 用来记录修改之前的XRObject的状态 */
 	FString RecordBeforeModify;

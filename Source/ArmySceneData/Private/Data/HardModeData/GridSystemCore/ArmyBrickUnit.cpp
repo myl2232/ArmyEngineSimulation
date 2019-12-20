@@ -1,5 +1,5 @@
-﻿#include "HardModeData/GridSystemCore/XRBrickUnit.h"
-#include "ArmyTools/Public/XRClipper.h"
+﻿#include "HardModeData/GridSystemCore/ArmyBrickUnit.h"
+#include "ArmyTools/Public/ArmyClipper.h"
 
 #include "../Mathematics/EarcutTesselator.h"
 #include "ArmyEditorViewportClient.h"

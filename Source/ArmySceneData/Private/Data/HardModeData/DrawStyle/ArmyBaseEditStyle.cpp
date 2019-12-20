@@ -1,12 +1,12 @@
-﻿#include "HardModeData/DrawStyle/XRBaseEditStyle.h"
+﻿#include "HardModeData/DrawStyle/ArmyBaseEditStyle.h"
 #include "ArmyEngineModule.h"
 
-#include "HardModeData/GridSystemCore/XRBrickUnit.h"
+#include "HardModeData/GridSystemCore/ArmyBrickUnit.h"
 #include "../Mathematics/EarcutTesselator.h"
-#include "Math/XRMath.h"
+#include "Math/ArmyMath.h"
 #include "ResManager.h"
 #include "ArmyResourceModule.h"
-#include "SArmyMulitCategory.h"
+//#include "SArmyMulitCategory.h"
 #include "ArmySceneData.h"
 
 IMPLEMENT_HIT_PROXY(HXRBaseAreaProxy, HHitProxy);
@@ -462,7 +462,7 @@ void FArmyBaseEditStyle::Deserialization(const TSharedPtr<FJsonObject>& InJsonDa
 	/** @������ ��Ʒ .pak */
 	if (MainTextureUrl.EndsWith(TEXT(".pak")))
 	{
-		UXRResourceManager * RM = FArmyResourceModule::Get().GetResourceManager();
+		UArmyResourceManager * RM = FArmyResourceModule::Get().GetResourceManager();
 		UMaterialInterface * MI = RM->CreateContentItemMaterial(ContentItem);
 		if (!MI)
 			MI = RM->CreateCustomMaterial(MainTextureUrl);

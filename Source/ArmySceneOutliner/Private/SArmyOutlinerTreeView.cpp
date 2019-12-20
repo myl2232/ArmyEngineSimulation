@@ -1,6 +1,6 @@
-﻿#include "SXROutlinerTreeView.h"
-#include "SXRSceneOutliner.h"
-#include "IXRSceneOutlinerColumn.h"
+﻿#include "SArmyOutlinerTreeView.h"
+#include "SArmySceneOutliner.h"
+#include "IArmySceneOutlinerColumn.h"
 
 void SXROutlinerTreeView::Construct(const FArguments& InArgs)
 {

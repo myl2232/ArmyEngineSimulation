@@ -8,7 +8,7 @@ public:
     virtual void StartupModule() override;
     virtual void ShutdownModule() override;
 
-    ARMY_USER_API static FArmyUserModule& Get();
+    ARMYUSER_API static FArmyUserModule& Get();
 
 private:
     static FArmyUserModule* Singleton;

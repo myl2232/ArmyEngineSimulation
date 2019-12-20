@@ -1,4 +1,5 @@
-#include "Data/HardModeData/DrawStyle/XRHerringBoneStyle.h"
+#include "Data/HardModeData/DrawStyle/ArmyHerringBoneStyle.h"
+#include "ArmyBrickUnit.h"
 
 FArmyHerringBoneStyle::FArmyHerringBoneStyle() :FArmyBaseEditStyle()
 {

@@ -5,7 +5,7 @@
 #include "ArmyEditorEngine.h"
 #include "GameFramework/DefaultPhysicsVolume.h"
 
-UObject* UArmyLevelFactory::FactoryCreateText(UClass* Class, UObject* InParent, FName Name, EObjectFlags Flags, UObject* Context, const TCHAR* Type, const TCHAR*& Buffer, const TCHAR* BufferEnd, FFeedbackContext* Warn)
+UObject* UArmyLevelFactory::FactoryCreateText(UClass* Class, UObject* InParent, FName Name, EObjectFlags Flags, UObject* Context, const TCHAR* Type, const TCHAR*& Buffer, const TCHAR* BufferEnd, FFeedbackContext* warning)
 {
 	//FEditorDelegates::OnAssetPreImport.Broadcast(this, Class, InParent, Name, Type);
 
@@ -40,7 +40,7 @@ UObject* UArmyLevelFactory::FactoryCreateText(UClass* Class, UObject* InParent, 
 				}
 				else
 				{
-					Warn->Logf(ELogVerbosity::Warning, TEXT("The Root map package name : '%s', conflicts with the existing object : '%s'"), *RootMapPackage->GetFullName(), *MapName);
+					warning->Logf(ELogVerbosity::Warning, TEXT("The Root map package name : '%s', conflicts with the existing object : '%s'"), *RootMapPackage->GetFullName(), *MapName);
 					//FEditorDelegates::OnAssetPostImport.Broadcast(this, nullptr);
 					return nullptr;
 				}
@@ -203,7 +203,7 @@ UObject* UArmyLevelFactory::FactoryCreateText(UClass* Class, UObject* InParent, 
 							}
 							else
 							{
-								Warn->Logf(ELogVerbosity::Warning, TEXT("Invalid archetype specified in subobject definition '%s': %s is not a child of Actor"),
+								warning->Logf(ELogVerbosity::Warning, TEXT("Invalid archetype specified in subobject definition '%s': %s is not a child of Actor"),
 									Str, *ObjectClass);
 							}
 						}

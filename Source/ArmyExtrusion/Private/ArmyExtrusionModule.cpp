@@ -1,4 +1,4 @@
-#include "../Public/XRExtrusionModule.h"
+#include "../Public/ArmyExtrusionModule.h"
 #include "Modules/ModuleManager.h"
 
 DEFINE_LOG_CATEGORY_STATIC(LogExtrusion, Log, All);

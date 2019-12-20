@@ -13,7 +13,7 @@
 
 #pragma once
 #include "ArmyObject.h"
-#include "SArmyInputBox.h"
+#include "ArmyInputBoxSlate.h"
 
 class ARMYSCENEDATA_API FArmyRulerLine {
 public:

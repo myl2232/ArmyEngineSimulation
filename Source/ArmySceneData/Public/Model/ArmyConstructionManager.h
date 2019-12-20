@@ -347,7 +347,7 @@ private:
 	//FTimerHandle TimeOutTimer;
 
 	//通过key查询获得响应时的回调
-	void OnGetResponseForKeyQuery(struct FArmyHttpResponse Response, ObjectConstructionKey Query);
+	void OnGetResponseForKeyQuery(struct FHttpResponse Response, ObjectConstructionKey Query);
 	
 	//通过Parameter获得响应时的回调
 	void OnGetResponseForParameterQuery(struct FArmyHttpResponse Response, ConstructionPatameters Parameter);

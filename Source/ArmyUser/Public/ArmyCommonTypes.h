@@ -1557,7 +1557,7 @@ struct FObjectGroupContentItem
 };
 
 //@ 存放构件以及关联的模型属性信息
-class ARMY_USER_API FFurnitureProperty
+class ARMYUSER_API FFurnitureProperty
 {
 public:
 	FFurnitureProperty();

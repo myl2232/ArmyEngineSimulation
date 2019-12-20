@@ -1,7 +1,7 @@
 ﻿#pragma once
 #include "CoreMinimal.h"
 #include "ArmyObject.h"
-#include "SSArmyEditableLabel.h"
+#include "ArmyEditableLabelSlate.h"
 #include "Engine.h"
 
 /**

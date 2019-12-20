@@ -1,5 +1,6 @@
 
-#include "Data/HardModeData/DrawStyle/XRContinueStyle.h"
+#include "Data/HardModeData/DrawStyle/ArmyContinueStyle.h"
+#include "ArmyBrickUnit.h"
 FArmyContinueStyle::FArmyContinueStyle() :FArmyBaseEditStyle()
 {
 	EdityType = S_ContinueStyle;

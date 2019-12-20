@@ -16,7 +16,7 @@ struct AppendInfo
 	FString CustomerName;
 };
 
-class ARMY_USER_API FArmyUser
+class ARMYUSER_API FArmyUser
 {
 public:
     FArmyUser();

@@ -1,4 +1,5 @@
-#include "Data/HardModeData/DrawStyle/XRIntervalStyle.h"
+#include "Data/HardModeData/DrawStyle/ArmyIntervalStyle.h"
+#include "ArmyBrickUnit.h"
 
 FArmyIntervalStyle::FArmyIntervalStyle()
 {

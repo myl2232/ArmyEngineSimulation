@@ -1,4 +1,6 @@
-#include "Data/HardModeData/DrawStyle/XRWhirlwindStyle.h"
+#include "Data/HardModeData/DrawStyle/ArmyWhirlwindStyle.h"
+#include "ArmyBrickUnit.h"
+
 FArmyWhirlwindStyle::FArmyWhirlwindStyle() :FArmyBaseEditStyle()
 {
 	EdityType = S_WhirlwindStyle;

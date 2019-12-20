@@ -7,6 +7,7 @@
 #include "ArmyEditorEngine.h"
 #include "Engine/Selection.h"
 #include "ArmyEditor.h"
+#include "Model.h"
 
 UArmyLevelExporterT3D::UArmyLevelExporterT3D(const FObjectInitializer& ObjectInitializer)
 	: Super(ObjectInitializer)
@@ -101,7 +102,7 @@ bool UArmyLevelExporterT3D::ExportText(const FExportObjectInnerContext* Context,
 				FString GroupActor = (Actor->GroupActor ? FString::Printf(TEXT(" GroupActor=%s"), *Actor->GroupActor->GetName()) : TEXT(""));
 				Ar.Logf(TEXT("%sBegin Actor Class=%s Name=%s ObjID=%d SynID=%d Archetype=%s'%s'%s%s%s") LINE_TERMINATOR,
 					FCString::Spc(TextIndent), *Actor->GetClass()->GetPathName(), *Actor->GetName(),
-					Actor->GetObjID(), Actor->GetSynID(),
+					Actor->GetUniqueID(), Actor->GetStatID(),
 					*Actor->GetArchetype()->GetClass()->GetPathName(), *Actor->GetArchetype()->GetPathName(), *ParentActorString, *SocketNameString, *GroupActor);
 
 				ExportRootScope = Actor;

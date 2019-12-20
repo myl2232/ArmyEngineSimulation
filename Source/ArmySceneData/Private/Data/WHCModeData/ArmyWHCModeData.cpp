@@ -1,4 +1,4 @@
-#include "Data/WHCModeData/XRWHCModeData.h"
+#include "Data/WHCModeData/ArmyWHCModeData.h"
 #include "Dom/JsonObject.h"
 #include "Dom/JsonValue.h"
 

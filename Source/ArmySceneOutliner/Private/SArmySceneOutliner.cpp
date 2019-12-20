@@ -1,4 +1,4 @@
-﻿#include "SXRSceneOutliner.h"
+﻿#include "SArmySceneOutliner.h"
 #include "ArmyEditorTypes.h"
 #include "ArmyEditorActorFolders.h"
 #include "ArmyActorTreeItem.h"

@@ -164,7 +164,7 @@ int32 FArmyTextureSource::GetBytesPerPixel() const
 	return BytesPerPixel;
 }
 
-bool FArmyTextureSource::GetMipData(TArray<uint8>& OutMipData, int32 MipIndex, class IImageWrapperModule* ImageWrapperModule /*= nullptr*/)
+bool FArmyTextureSource::GetMipData(TArray64<uint8>& OutMipData, int32 MipIndex, class IImageWrapperModule* ImageWrapperModule /*= nullptr*/)
 {
 	bool bSuccess = false;
 	if (MipIndex < NumMips && BulkData.GetBulkDataSize() > 0)
